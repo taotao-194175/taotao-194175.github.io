@@ -10,7 +10,7 @@ npm run build
 cd ../public
 
 # 如果是发布到自定义域名
-echo 'blog.abplan.top' > CNAME
+# echo 'blog.abplan.top' > CNAME
 
 git init
 git add -A

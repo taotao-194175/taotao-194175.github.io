@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "deploy": "./scripts/deploy"
+    "deploy": "sh ./scripts/deploy.sh"
   },
   "dependencies": {
     "vue-class-component": "^7.2.6",
